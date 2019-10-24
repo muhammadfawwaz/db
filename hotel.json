@@ -1,0 +1,647 @@
+{
+    "data": [
+      {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "RTJOGIBI",
+          "chainCode": "RT",
+          "dupeId": "700076809",
+          "name": "ibis Yogyakarta Malioboro",
+          "rating": "3",
+          "cityCode": "JOG",
+          "latitude": -7.79271,
+          "longitude": 110.36617,
+          "hotelDistance": {
+            "distance": 0.6,
+            "distanceUnit": "KM"
+          },
+          "address": {
+            "lines": [
+              "JL. MALIOBORO NO 5258"
+            ],
+            "postalCode": "55001",
+            "cityName": "YOGYAKARTA",
+            "countryCode": "ID"
+          },
+          "contact": {
+            "phone": "62/274/516974",
+            "fax": "62/274/516977",
+            "email": "reservation@ibisyogya.com"
+          },
+          "description": {
+            "lang": "en",
+            "text": "Ibis Yogyakarta Malioboro is located in the central business district of Yogyakarta, 10 kilometres from the Airport and just 300 metres  from the railway station. Book one of our 148 rooms and benefit from the hotel facilities on offer, two restaurants, two bars, a fitness centre and a swimming pool.  Major tourist attractions including the Sultans Palace, Water Castle and Sonobudoyo  Museum are only a short walk from the hotel."
+          },
+          "amenities": [
+            "ELEVATOR",
+            "OUTDOOR_POOL",
+            "SAFE_DEP_BOX",
+            "ROOM_SERVICE",
+            "INTERNET_SERVICES",
+            "220_AC",
+            "PARKING",
+            "WIRELESS_CONNECTIVITY",
+            "BUS_PARKING",
+            "24_HOUR_FRONT_DESK",
+            "CONNECTING_ROOMS",
+            "SMOKE_DETECTOR",
+            "FIRE_SAFETY",
+            "ELEC_GENERATOR",
+            "FIRE_DETECTORS",
+            "EMERG_LIGHTING",
+            "RESTAURANT",
+            "MEETING_FACILITIES",
+            "COMPUTER_RENTAL",
+            "BUSINESS_CENTER",
+            "INTERNET-HI_SPEED_IN_RM",
+            "BATH",
+            "WAKEUP_SERVICE",
+            "WI-FI_IN_ROOM",
+            "PHONE-DIR_DIAL",
+            "CABLE_TELEVISION",
+            "TELEVISION",
+            "SATELLITE_TV",
+            "AIR_CONDITIONING",
+            "FREE_NEWSPAPER",
+            "SAFE",
+            "NONSMOKING_RMS",
+            "BEACH"
+          ],
+          "media": [
+            {
+              "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/99345B47960E42D887BC5D19864007BD",
+              "category": "ROOM"
+            }
+          ]
+        },
+        "available": true,
+        "offers": [
+          {
+            "id": "7B070D2256A0252F45F4C6E831DE9E8B01049E0516D930967AE1B8E0D6472AED",
+            "rateCode": "PIB",
+            "commission": {
+              "amount": "0",
+              "percentage": "0"
+            },
+            "boardType": "ROOM_ONLY",
+            "room": {
+              "type": "C2T",
+              "typeEstimated": {
+                "category": "STANDARD_ROOM",
+                "beds": 2,
+                "bedType": "TWIN"
+              },
+              "description": {
+                "lang": "EN",
+                "text": "Ibis Rate-chambre seule\nStandard Twin Bed"
+              }
+            },
+            "guests": {
+              "adults": 2
+            },
+            "price": {
+              "currency": "IDR",
+              "total": "629200.00",
+              "taxes": [
+                {
+                  "code": "COUNTRY_TAX",
+                  "pricingFrequency": "PER_NIGHT",
+                  "pricingMode": "PER_PRODUCT",
+                  "percentage": 21,
+                  "included": true
+                }
+              ],
+              "variations": {
+                "average": {
+                  "base": "520000.00"
+                },
+                "changes": [
+                  {
+                    "startDate": "2019-10-24",
+                    "endDate": "2019-10-25",
+                    "base": "520000.00"
+                  }
+                ]
+              }
+            },
+            "policies": {
+              "holdTime": {
+                "deadline": "2019-10-24T18:00:00"
+              },
+              "guarantee": {
+                "acceptedPayments": {
+                  "creditCards": [
+                    "AX",
+                    "CA",
+                    "DC",
+                    "IK",
+                    "JC",
+                    "VI"
+                  ],
+                  "methods": [
+                    "CREDIT_CARD"
+                  ]
+                }
+              },
+              "cancellation": {
+                "deadline": "2019-10-23T00:00:00"
+              }
+            }
+          }
+        ],
+        "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJOGIBI&adults=2&currency=IDR&paymentPolicy=NONE&roomQuantity=1&view=FULL"
+      },
+      {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "SMJOGPUR",
+          "chainCode": "SM",
+          "dupeId": "700010018",
+          "name": "MELIA PUROSANI",
+          "rating": "4",
+          "cityCode": "JOG",
+          "latitude": -7.79702,
+          "longitude": 110.36916,
+          "hotelDistance": {
+            "distance": 0.8,
+            "distanceUnit": "KM"
+          },
+          "address": {
+            "lines": [
+              "JL SURYOTOMO NO 31 P O BOX 1246"
+            ],
+            "postalCode": "55122",
+            "cityName": "YOGYAKARTA",
+            "countryCode": "ID"
+          },
+          "contact": {
+            "phone": "62-274-589521",
+            "fax": "62-274-589521-23"
+          },
+          "description": {
+            "lang": "en",
+            "text": "The hotel Melia Purosani is located in the heart of Yogyakarta, alongside the Jalan Malioboro shopping centre. Just 1 km from the Sultan's Palace, 17 km from the temple of Prambanan, 27 km from the Parangtritis Beach and 42 km from the temple of Borobudur"
+          },
+          "amenities": [
+            "AUDIO-VIS_EQT",
+            "BUSINESS_CENTER",
+            "CONVENTION_CTR",
+            "MEETING_ROOMS",
+            "TELECONFERENCE",
+            "COFFEE_SHOP",
+            "RESTAURANT",
+            "DISABLED_FACILITIES",
+            "ACC_WCHAIR",
+            "BABY-SITTING",
+            "BEAUTY_PARLOUR",
+            "CAR_RENTAL",
+            "KIDS_WELCOME",
+            "ELEVATOR",
+            "EXCHANGE_FAC",
+            "EXECUTIVE_FLR",
+            "GIFT_SHOP",
+            "INT_HOTSPOTS",
+            "WIFI",
+            "JACUZZI",
+            "LAUNDRY_SVC",
+            "MASSAGE",
+            "NO_PORN_FILMS",
+            "PARKING",
+            "SAUNA",
+            "SIGHTSEEING",
+            "SPA",
+            "VALET_PARKING",
+            "LOUNGE",
+            "HAIRDRESSER",
+            "SWIMMING_POOL",
+            "AIR_CONDITIONING",
+            "HAIR_DRYER",
+            "MINIBAR",
+            "NONSMOKING_RMS",
+            "PHONE-DIR_DIAL",
+            "ROOM_SERVICE",
+            "TELEVISION",
+            "EXT_ROOM_ENTRY",
+            "FIRST_AID_STAF",
+            "EMERG_LIGHTING",
+            "FIRE_DETECTORS",
+            "EXTINGUISHERS",
+            "FIRE_SAFETY",
+            "GUARDED_PARKG",
+            "SAFE_DEP_BOX",
+            "SMOKE_DETECTOR",
+            "SPRINKLERS",
+            "VIDEO_SURVEIL",
+            "OUTDOOR_POOL",
+            "BALLROOM"
+          ],
+          "media": [
+            {
+              "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/F846060AAD304F16821F13FA28651316",
+              "category": "EXTERIOR"
+            }
+          ]
+        },
+        "available": true,
+        "offers": [
+          {
+            "id": "3E842B93F95595480F66203CCFDAE47C7016883988C9B985889B7EB366744CB6",
+            "rateCode": "BAR",
+            "rateFamilyEstimated": {
+              "code": "BAR",
+              "type": "P"
+            },
+            "commission": {
+              "percentage": "10.00"
+            },
+            "room": {
+              "type": "C2T",
+              "typeEstimated": {
+                "category": "DELUXE_ROOM",
+                "beds": 2,
+                "bedType": "TWIN"
+              },
+              "description": {
+                "lang": "EN",
+                "text": "Flexible Unrestricted Rate\nDELUXE ROOM"
+              }
+            },
+            "guests": {
+              "adults": 2
+            },
+            "price": {
+              "currency": "IDR",
+              "base": "1008265.00",
+              "total": "1220001.00",
+              "taxes": [
+                {
+                  "code": "TOTAL_TAX",
+                  "amount": "211736.00",
+                  "included": true
+                }
+              ],
+              "variations": {
+                "average": {
+                  "base": "1008265.00"
+                },
+                "changes": [
+                  {
+                    "startDate": "2019-10-24",
+                    "endDate": "2019-10-25",
+                    "base": "1008265.00"
+                  }
+                ]
+              }
+            },
+            "policies": {
+              "guarantee": {
+                "acceptedPayments": {
+                  "methods": [
+                    "TRAVEL_AGENT_ID"
+                  ]
+                }
+              },
+              "cancellation": {
+                "deadline": "2019-10-21T15:00:00"
+              }
+            }
+          }
+        ],
+        "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=SMJOGPUR&adults=2&currency=IDR&paymentPolicy=NONE&roomQuantity=1&view=FULL"
+      },
+      {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "RTJOGMER",
+          "chainCode": "RT",
+          "dupeId": "700042273",
+          "name": "The Phoenix Hotel Yogyakarta - MGallery Collection",
+          "rating": "5",
+          "cityCode": "JOG",
+          "latitude": -7.7827,
+          "longitude": 110.36839,
+          "hotelDistance": {
+            "distance": 0.9,
+            "distanceUnit": "KM"
+          },
+          "address": {
+            "lines": [
+              "JL JENDERAL SUDIRMAN 9 - 11"
+            ],
+            "postalCode": "55233",
+            "cityName": "YOGYAKARTA",
+            "countryCode": "ID"
+          },
+          "contact": {
+            "phone": "62/274/566617",
+            "fax": "62/274/566856",
+            "email": "info@thephoenixyogya.com"
+          },
+          "description": {
+            "lang": "en",
+            "text": "Located in the heart of Yogyakarta near the popular Malioboro district, the historic Phoenix Hotel Yogyakarta, a member of the MGallery Collection, is a colonial landmark dating back to 1918. With 144 elegant rooms and suites, each boasting a balcony anda fusion of Asian and European decor, The Phoenix Hotel features a restaurant, wine bar and terrace bar overlooking an open courtyard. An inviting swimming pool, indulgent day spa and modern conferencing facilities complete the exclusive experience."
+          },
+          "amenities": [
+            "ELEVATOR",
+            "SAFE_DEP_BOX",
+            "ROOM_SERVICE",
+            "220_AC",
+            "DISCO",
+            "WIRELESS_CONNECTIVITY",
+            "KIDS_WELCOME",
+            "BALLROOM",
+            "BUS_PARKING",
+            "PORTER/BELLBOY",
+            "NIGHT_CLUB",
+            "SMOKE_DETECTOR",
+            "ELEC_GENERATOR",
+            "EMERG_LIGHTING",
+            "MASSAGE",
+            "OUTDOOR_POOL",
+            "INTERNET_SERVICES",
+            "PARKING",
+            "GIFT_SHOP",
+            "TRAVEL_AGENCY",
+            "TOUR_DESK",
+            "CONCIERGE",
+            "EXCHANGE_FAC",
+            "LOUNGE",
+            "DOCTOR_ON_CALL",
+            "24_HOUR_FRONT_DESK",
+            "CONNECTING_ROOMS",
+            "GARAGE_PARKING",
+            "BABY-SITTING",
+            "RESTAURANT",
+            "MEETING_FACILITIES",
+            "COMPUTER_RENTAL",
+            "MEETING_ROOMS",
+            "BUSINESS_CENTER",
+            "INTERNET-HI_SPEED_IN_RM",
+            "WI-FI_IN_ROOM",
+            "CRIBS_AVAILABLE",
+            "BATH",
+            "SHOWER",
+            "HAIR_DRYER",
+            "CABLE_TELEVISION",
+            "TELEVISION",
+            "SATELLITE_TV",
+            "AIR_CONDITIONING",
+            "SAFE",
+            "BEACH",
+            "WATER_SPORTS",
+            "HORSE_RIDING"
+          ],
+          "media": [
+            {
+              "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0712D0C7C06A498EAC40FBE9B9545B79",
+              "category": "EXTERIOR"
+            }
+          ]
+        },
+        "available": true,
+        "offers": [
+          {
+            "id": "850A075B9E58A2B173C30A49D0AE154FF3E2368183DEF850B70C5A7C2796D465",
+            "rateCode": "GOV",
+            "rateFamilyEstimated": {
+              "code": "GOV",
+              "type": "C"
+            },
+            "commission": {
+              "amount": "0",
+              "percentage": "0"
+            },
+            "boardType": "ROOM_ONLY",
+            "room": {
+              "type": "B1Q",
+              "typeEstimated": {
+                "category": "SUPERIOR_ROOM",
+                "beds": 1,
+                "bedType": "TWIN"
+              },
+              "description": {
+                "lang": "EN",
+                "text": "Government Rate-chambre seule\nSuperior Heritage, Queen Size or Twin Beds"
+              }
+            },
+            "guests": {
+              "adults": 2
+            },
+            "price": {
+              "currency": "IDR",
+              "total": "678205.00",
+              "taxes": [
+                {
+                  "code": "COUNTRY_TAX",
+                  "pricingFrequency": "PER_NIGHT",
+                  "pricingMode": "PER_PRODUCT",
+                  "percentage": 21,
+                  "included": true
+                }
+              ],
+              "variations": {
+                "average": {
+                  "base": "560500.00"
+                },
+                "changes": [
+                  {
+                    "startDate": "2019-10-24",
+                    "endDate": "2019-10-25",
+                    "base": "560500.00"
+                  }
+                ]
+              }
+            },
+            "policies": {
+              "deposit": {
+                "acceptedPayments": {
+                  "creditCards": [
+                    "AX",
+                    "CA",
+                    "DC",
+                    "EC",
+                    "IK",
+                    "JC",
+                    "VI"
+                  ],
+                  "methods": [
+                    "CREDIT_CARD"
+                  ]
+                }
+              },
+              "cancellation": {
+                "deadline": "2019-10-23T00:00:00"
+              }
+            }
+          }
+        ],
+        "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJOGMER&adults=2&currency=IDR&paymentPolicy=NONE&roomQuantity=1&view=FULL"
+      },
+      {
+        "type": "hotel-offers",
+        "hotel": {
+          "type": "hotel",
+          "hotelId": "RTJOGYOG",
+          "chainCode": "RT",
+          "dupeId": "700010570",
+          "name": "Novotel Yogyakarta",
+          "rating": "4",
+          "cityCode": "JOG",
+          "latitude": -7.78239,
+          "longitude": 110.37769,
+          "hotelDistance": {
+            "distance": 1.2,
+            "distanceUnit": "KM"
+          },
+          "address": {
+            "lines": [
+              "JL.JEND SURDIRMAN NO.89"
+            ],
+            "postalCode": "55223",
+            "cityName": "YOGYAKARTA",
+            "countryCode": "ID"
+          },
+          "contact": {
+            "phone": "62/274/580930",
+            "fax": "62/274/521170",
+            "email": "resa@novotelyogya.com"
+          },
+          "description": {
+            "lang": "en",
+            "text": "Novotel Yogyakarta adalah hotel bintang 4 di pusat Yogyakarta. Ideal untuk pelancong liburan dan tamu bisnis, menawarkan 202 kamar kontemporer yang luas, pusat bisnis, akses internet Wi-Fi gratis, dan fasilitas rapat. Novotel Yogyakarta memiliki dua restoran yang menyajikan beragam hidangan tradisional dan internasional, juga bar, pusat kebugaran, kolam renang, spa & salon kecantikan, Kids Club, dan butik."
+          },
+          "amenities": [
+            "ELEVATOR",
+            "SAUNA",
+            "OUTDOOR_POOL",
+            "SAFE_DEP_BOX",
+            "ROOM_SERVICE",
+            "PARKING",
+            "INTERNET_SERVICES",
+            "120_AC",
+            "ACC_BATHS",
+            "ADAPTED_PHONES",
+            "ACC_WCHAIR",
+            "DISABLED_FACILITIES",
+            "CONCIERGE",
+            "WIRELESS_CONNECTIVITY",
+            "KIDS_WELCOME",
+            "LOUNGE",
+            "CHILDRENS_PLAY_AREA",
+            "BUS_PARKING",
+            "CONNECTING_ROOMS",
+            "SMOKE_DETECTOR",
+            "FIRE_SAFETY",
+            "ELEC_GENERATOR",
+            "FIRE_DETECTORS",
+            "EMERG_LIGHTING",
+            "GARAGE_PARKING",
+            "MULTILINGUAL_STAFF",
+            "RESTAURANT",
+            "SECRETARIAL_SERVICES",
+            "PHOTOCOPIER",
+            "MEETING_FACILITIES",
+            "COMPUTER_RENTAL",
+            "MEETING_ROOMS",
+            "BUSINESS_CENTER",
+            "FAX_FAC_INROOM",
+            "INTERNET-HI_SPEED_IN_RM",
+            "WI-FI_IN_ROOM",
+            "PHONE-DIR_DIAL",
+            "CABLE_TELEVISION",
+            "TELEVISION",
+            "SATELLITE_TV",
+            "AIR_CONDITIONING",
+            "FREE_NEWSPAPER",
+            "SAFE",
+            "NONSMOKING_RMS",
+            "BEACH"
+          ],
+          "media": [
+            {
+              "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/BD5A1B52DB4A47C587FB0805C4EE694E",
+              "category": "EXTERIOR"
+            }
+          ]
+        },
+        "available": true,
+        "offers": [
+          {
+            "id": "0D573A165F5F58FC5D04993D49B759DC0243346667340BF58CFDB4EB9499A0FC",
+            "rateCode": "GOV",
+            "rateFamilyEstimated": {
+              "code": "GOV",
+              "type": "C"
+            },
+            "commission": {
+              "amount": "0",
+              "percentage": "0"
+            },
+            "boardType": "ROOM_ONLY",
+            "room": {
+              "type": "C1Q",
+              "typeEstimated": {
+                "category": "STANDARD_ROOM",
+                "beds": 1,
+                "bedType": "KING"
+              },
+              "description": {
+                "lang": "EN",
+                "text": "Government Rate-chambre seule\nStandard 1 King-size bed"
+              }
+            },
+            "guests": {
+              "adults": 2
+            },
+            "price": {
+              "currency": "IDR",
+              "total": "442557.50",
+              "taxes": [
+                {
+                  "code": "COUNTRY_TAX",
+                  "pricingFrequency": "PER_NIGHT",
+                  "pricingMode": "PER_PRODUCT",
+                  "percentage": 21,
+                  "included": true
+                }
+              ],
+              "variations": {
+                "average": {
+                  "base": "365750.00"
+                },
+                "changes": [
+                  {
+                    "startDate": "2019-10-24",
+                    "endDate": "2019-10-25",
+                    "base": "365750.00"
+                  }
+                ]
+              }
+            },
+            "policies": {
+              "guarantee": {
+                "acceptedPayments": {
+                  "creditCards": [
+                    "AX",
+                    "CA",
+                    "DC",
+                    "EC",
+                    "IK",
+                    "JC",
+                    "VI"
+                  ],
+                  "methods": [
+                    "CREDIT_CARD"
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "self": "https://test.api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJOGYOG&adults=2&currency=IDR&paymentPolicy=NONE&roomQuantity=1&view=FULL"
+      }
+    ]
+  }

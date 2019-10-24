@@ -33,41 +33,6 @@
             "lang": "en",
             "text": "Ibis Yogyakarta Malioboro is located in the central business district of Yogyakarta, 10 kilometres from the Airport and just 300 metres  from the railway station. Book one of our 148 rooms and benefit from the hotel facilities on offer, two restaurants, two bars, a fitness centre and a swimming pool.  Major tourist attractions including the Sultans Palace, Water Castle and Sonobudoyo  Museum are only a short walk from the hotel."
           },
-          "amenities": [
-            "ELEVATOR",
-            "OUTDOOR_POOL",
-            "SAFE_DEP_BOX",
-            "ROOM_SERVICE",
-            "INTERNET_SERVICES",
-            "220_AC",
-            "PARKING",
-            "WIRELESS_CONNECTIVITY",
-            "BUS_PARKING",
-            "24_HOUR_FRONT_DESK",
-            "CONNECTING_ROOMS",
-            "SMOKE_DETECTOR",
-            "FIRE_SAFETY",
-            "ELEC_GENERATOR",
-            "FIRE_DETECTORS",
-            "EMERG_LIGHTING",
-            "RESTAURANT",
-            "MEETING_FACILITIES",
-            "COMPUTER_RENTAL",
-            "BUSINESS_CENTER",
-            "INTERNET-HI_SPEED_IN_RM",
-            "BATH",
-            "WAKEUP_SERVICE",
-            "WI-FI_IN_ROOM",
-            "PHONE-DIR_DIAL",
-            "CABLE_TELEVISION",
-            "TELEVISION",
-            "SATELLITE_TV",
-            "AIR_CONDITIONING",
-            "FREE_NEWSPAPER",
-            "SAFE",
-            "NONSMOKING_RMS",
-            "BEACH"
-          ],
           "media": [
             {
               "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/99345B47960E42D887BC5D19864007BD",
@@ -184,59 +149,6 @@
             "lang": "en",
             "text": "The hotel Melia Purosani is located in the heart of Yogyakarta, alongside the Jalan Malioboro shopping centre. Just 1 km from the Sultan's Palace, 17 km from the temple of Prambanan, 27 km from the Parangtritis Beach and 42 km from the temple of Borobudur"
           },
-          "amenities": [
-            "AUDIO-VIS_EQT",
-            "BUSINESS_CENTER",
-            "CONVENTION_CTR",
-            "MEETING_ROOMS",
-            "TELECONFERENCE",
-            "COFFEE_SHOP",
-            "RESTAURANT",
-            "DISABLED_FACILITIES",
-            "ACC_WCHAIR",
-            "BABY-SITTING",
-            "BEAUTY_PARLOUR",
-            "CAR_RENTAL",
-            "KIDS_WELCOME",
-            "ELEVATOR",
-            "EXCHANGE_FAC",
-            "EXECUTIVE_FLR",
-            "GIFT_SHOP",
-            "INT_HOTSPOTS",
-            "WIFI",
-            "JACUZZI",
-            "LAUNDRY_SVC",
-            "MASSAGE",
-            "NO_PORN_FILMS",
-            "PARKING",
-            "SAUNA",
-            "SIGHTSEEING",
-            "SPA",
-            "VALET_PARKING",
-            "LOUNGE",
-            "HAIRDRESSER",
-            "SWIMMING_POOL",
-            "AIR_CONDITIONING",
-            "HAIR_DRYER",
-            "MINIBAR",
-            "NONSMOKING_RMS",
-            "PHONE-DIR_DIAL",
-            "ROOM_SERVICE",
-            "TELEVISION",
-            "EXT_ROOM_ENTRY",
-            "FIRST_AID_STAF",
-            "EMERG_LIGHTING",
-            "FIRE_DETECTORS",
-            "EXTINGUISHERS",
-            "FIRE_SAFETY",
-            "GUARDED_PARKG",
-            "SAFE_DEP_BOX",
-            "SMOKE_DETECTOR",
-            "SPRINKLERS",
-            "VIDEO_SURVEIL",
-            "OUTDOOR_POOL",
-            "BALLROOM"
-          ],
           "media": [
             {
               "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/F846060AAD304F16821F13FA28651316",
@@ -248,26 +160,6 @@
         "offers": [
           {
             "id": "3E842B93F95595480F66203CCFDAE47C7016883988C9B985889B7EB366744CB6",
-            "rateCode": "BAR",
-            "rateFamilyEstimated": {
-              "code": "BAR",
-              "type": "P"
-            },
-            "commission": {
-              "percentage": "10.00"
-            },
-            "room": {
-              "type": "C2T",
-              "typeEstimated": {
-                "category": "DELUXE_ROOM",
-                "beds": 2,
-                "bedType": "TWIN"
-              },
-              "description": {
-                "lang": "EN",
-                "text": "Flexible Unrestricted Rate\nDELUXE ROOM"
-              }
-            },
             "guests": {
               "adults": 2
             },
@@ -293,18 +185,6 @@
                     "base": "1008265.00"
                   }
                 ]
-              }
-            },
-            "policies": {
-              "guarantee": {
-                "acceptedPayments": {
-                  "methods": [
-                    "TRAVEL_AGENT_ID"
-                  ]
-                }
-              },
-              "cancellation": {
-                "deadline": "2019-10-21T15:00:00"
               }
             }
           }
@@ -344,56 +224,6 @@
             "lang": "en",
             "text": "Located in the heart of Yogyakarta near the popular Malioboro district, the historic Phoenix Hotel Yogyakarta, a member of the MGallery Collection, is a colonial landmark dating back to 1918. With 144 elegant rooms and suites, each boasting a balcony anda fusion of Asian and European decor, The Phoenix Hotel features a restaurant, wine bar and terrace bar overlooking an open courtyard. An inviting swimming pool, indulgent day spa and modern conferencing facilities complete the exclusive experience."
           },
-          "amenities": [
-            "ELEVATOR",
-            "SAFE_DEP_BOX",
-            "ROOM_SERVICE",
-            "220_AC",
-            "DISCO",
-            "WIRELESS_CONNECTIVITY",
-            "KIDS_WELCOME",
-            "BALLROOM",
-            "BUS_PARKING",
-            "PORTER/BELLBOY",
-            "NIGHT_CLUB",
-            "SMOKE_DETECTOR",
-            "ELEC_GENERATOR",
-            "EMERG_LIGHTING",
-            "MASSAGE",
-            "OUTDOOR_POOL",
-            "INTERNET_SERVICES",
-            "PARKING",
-            "GIFT_SHOP",
-            "TRAVEL_AGENCY",
-            "TOUR_DESK",
-            "CONCIERGE",
-            "EXCHANGE_FAC",
-            "LOUNGE",
-            "DOCTOR_ON_CALL",
-            "24_HOUR_FRONT_DESK",
-            "CONNECTING_ROOMS",
-            "GARAGE_PARKING",
-            "BABY-SITTING",
-            "RESTAURANT",
-            "MEETING_FACILITIES",
-            "COMPUTER_RENTAL",
-            "MEETING_ROOMS",
-            "BUSINESS_CENTER",
-            "INTERNET-HI_SPEED_IN_RM",
-            "WI-FI_IN_ROOM",
-            "CRIBS_AVAILABLE",
-            "BATH",
-            "SHOWER",
-            "HAIR_DRYER",
-            "CABLE_TELEVISION",
-            "TELEVISION",
-            "SATELLITE_TV",
-            "AIR_CONDITIONING",
-            "SAFE",
-            "BEACH",
-            "WATER_SPORTS",
-            "HORSE_RIDING"
-          ],
           "media": [
             {
               "uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0712D0C7C06A498EAC40FBE9B9545B79",
@@ -404,29 +234,6 @@
         "available": true,
         "offers": [
           {
-            "id": "850A075B9E58A2B173C30A49D0AE154FF3E2368183DEF850B70C5A7C2796D465",
-            "rateCode": "GOV",
-            "rateFamilyEstimated": {
-              "code": "GOV",
-              "type": "C"
-            },
-            "commission": {
-              "amount": "0",
-              "percentage": "0"
-            },
-            "boardType": "ROOM_ONLY",
-            "room": {
-              "type": "B1Q",
-              "typeEstimated": {
-                "category": "SUPERIOR_ROOM",
-                "beds": 1,
-                "bedType": "TWIN"
-              },
-              "description": {
-                "lang": "EN",
-                "text": "Government Rate-chambre seule\nSuperior Heritage, Queen Size or Twin Beds"
-              }
-            },
             "guests": {
               "adults": 2
             },
@@ -453,27 +260,6 @@
                     "base": "560500.00"
                   }
                 ]
-              }
-            },
-            "policies": {
-              "deposit": {
-                "acceptedPayments": {
-                  "creditCards": [
-                    "AX",
-                    "CA",
-                    "DC",
-                    "EC",
-                    "IK",
-                    "JC",
-                    "VI"
-                  ],
-                  "methods": [
-                    "CREDIT_CARD"
-                  ]
-                }
-              },
-              "cancellation": {
-                "deadline": "2019-10-23T00:00:00"
               }
             }
           }
